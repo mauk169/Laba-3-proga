@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmiza\\source\\repos\\Laba 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22B6D44-F556-4680-957A-AAE5AA63399A}|Laba 3\\Laba 3.vcxproj|C:\\Users\\Dmiza\\source\\repos\\Laba 3\\Laba 3\\Laba 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D22B6D44-F556-4680-957A-AAE5AA63399A}|Laba 3\\Laba 3.vcxproj|solutionrelative:Laba 3\\Laba 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmiza\\Downloads\\lab3_variant4_simplified.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab3_variant4_simplified.c",
+              "DocumentMoniker": "C:\\Users\\Dmiza\\Downloads\\lab3_variant4_simplified.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\lab3_variant4_simplified.c",
+              "ToolTip": "C:\\Users\\Dmiza\\Downloads\\lab3_variant4_simplified.c",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\lab3_variant4_simplified.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-17T12:24:58.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba 3.cpp",
+              "DocumentMoniker": "C:\\Users\\Dmiza\\source\\repos\\Laba 3\\Laba 3\\Laba 3.cpp",
+              "RelativeDocumentMoniker": "Laba 3\\Laba 3.cpp",
+              "ToolTip": "C:\\Users\\Dmiza\\source\\repos\\Laba 3\\Laba 3\\Laba 3.cpp",
+              "RelativeToolTip": "Laba 3\\Laba 3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-16T15:09:00.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
